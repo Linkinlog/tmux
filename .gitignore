@@ -1,0 +1,2 @@
+# Holds submodules, easier to ignore than track since TPM will handle it all
+plugins/
